@@ -10,17 +10,18 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/anshuldhiman-ai"><img src="./assets/social/github.svg" width="32" alt="GitHub"><br><sub><b>GitHub</b></sub></a></td>
 <td width="24"></td>
-<td align="center"><a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32" alt="LinkedIn"><br><sub><b>LinkedIn</b></sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32"><br><sub><b></b></sub></a></td>
 <td width="24"></td>
-<td align="center"><a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/leetcode.svg" width="32" alt="LeetCode"><br><sub><b>LeetCode</b></sub></a></td>
+<td align="center"><a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/leetcode.svg" width="32"><br><sub></sub></a></td>
 <td width="24"></td>
-<td align="center"><a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hackerrank.svg" width="32" alt="HackerRank"><br><sub><b>HackerRank</b></sub></a></td>
+<td align="center"><a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hackerrank.svg" width="32"><br><sub></sub></a></td>
 </tr>
+
 </table>
 
 </div>
+
 
 ---
 
