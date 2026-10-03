@@ -10,14 +10,18 @@
 
 <table>
 <tr>
-<td width="24"></td>
-<td align="center"><a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32"><br><sub><b></b></sub></a></td>
-<td width="24"></td>
-<td align="center"><a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/leetcode.svg" width="32"><br><sub></sub></a></td>
-<td width="24"></td>
-<td align="center"><a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hackerrank.svg" width="32"><br><sub></sub></a></td>
-</tr>
+<td align="center" style="border-radius: 999px; background: rgba(17,24,39,0.92); padding: 12px 30px; border: 1px solid rgba(96,165,250,0.15);">
 
+<a href="https://github.com/anshuldhiman-ai"><img src="./assets/social/github.svg" width="30" alt="GitHub"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="30" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/Leetcode.png" width="30" alt="LeetCode"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hacker.svg" height="30" alt="HackerRank"></a>
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -70,7 +74,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"><br><sub>Python</sub></td>
 <td width="14"></td>
-<td align="center"><img src="./assets/platforms/c.svg" width="48"><br><sub>C</sub></td>
+<td align="center"><img src="./assets/platforms/c.svg" height="48"><br><sub>C</sub></td>
 <td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48"><br><sub>C++</sub></td>
 <td width="14"></td>
@@ -125,15 +129,15 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <table>
 <tr>
 <td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/claude.svg" width="42"><br><br><b>Claude Code</b>
+<img src="./assets/ai-tools/claude.webp" width="42"><br><br><b>Claude Code</b>
 </td>
 <td width="18"></td>
 <td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/antigravity.svg" width="42"><br><br><b>Antigravity</b>
+<img src="./assets/ai-tools/antigravity.webp" width="42"><br><br><b>Antigravity</b>
 </td>
 <td width="18"></td>
 <td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/codex.svg" width="42"><br><br><b>Codex</b>
+<img src="./assets/ai-tools/chatgpt-logo.webp" width="42"><br><br><b>Codex</b>
 </td>
 <td width="18"></td>
 <td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
@@ -233,25 +237,30 @@ Multi-currency converter with live rates and history tracking.
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(96,165,250,0.15);">
+
+<td width="50%" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(255,161,22,0.22);">
 
 <a href="https://leetcode.com/u/anshul_ai/">
-<img src="https://leetcard.jacoblin.cool/anshul_ai?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="96%" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/anshul_ai?theme=dark&font=JetBrains%20Mono&ext=heatmap&radius=16&animation=false" width="100%" alt="LeetCode Stats">
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/anshul_ai/">
-<img src="./assets/platforms/leetcode.svg" width="28"> <b>LEETCODE</b>
-</a>
+<img src="./assets/platforms/Leetcode.png" width="26"> <b>LEETCODE</b>
+
+<br>
+
+<sub>anshul_ai</sub>
+
+<br><br>
+
+<a href="https://leetcode.com/u/anshul_ai/"><b>→ VIEW PROFILE</b></a>
 
 </td>
 
-<td width="50%" align="center" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(96,165,250,0.15);">
+<td width="50%" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(46,200,102,0.25);">
 
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml">
-
-<img src="./assets/platforms/hackerrank.svg" width="52" alt="HackerRank">
+<img src="./assets/platforms/hacker.svg" height="76" alt="HackerRank">
 
 <br><br>
 
@@ -263,11 +272,14 @@ Multi-currency converter with live rates and history tracking.
 
 <br><br>
 
-[→ VISIT PROFILE](https://www.hackerrank.com/profile/anshul_dhiman_ml)
+<sub>PROBLEM SOLVING · ALGORITHMS · DATA STRUCTURES</sub>
 
-</a>
+<br><br>
+
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>→ VIEW PROFILE</b></a>
 
 </td>
+
 </tr>
 </table>
 
@@ -285,43 +297,15 @@ Multi-currency converter with live rates and history tracking.
 
 ---
 
-## `08` — LET'S CONNECT
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14" alt="Profile views">
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/anshuldhiman-ai"><img src="./assets/social/github.svg" width="32"><br><b>GITHUB</b></a>
-</td>
-<td width="24"></td>
-<td align="center">
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32"><br><b>LINKEDIN</b></a>
-</td>
-<td width="24"></td>
-<td align="center">
-<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/leetcode.svg" width="32"><br><b>LEETCODE</b></a>
-</td>
-<td width="24"></td>
-<td align="center">
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hackerrank.svg" width="32"><br><b>HACKERRANK</b></a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ### BUILDING · LEARNING · SOLVING
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14" alt="Profile views">
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:172554,50:111827,100:0B0F14" />
 
