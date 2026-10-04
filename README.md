@@ -108,9 +108,9 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48"><br><sub>React</sub></td>
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55"><br><sub>Git</sub></td>
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48"><br><sub>GitHub</sub></td>
+<td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
 <td width="14"></td>
@@ -128,8 +128,8 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <table>
 <tr>
-<td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/claude.webp" width="42"><br><br><b>Claude Code</b>
+<td align="center" width="50" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
+<img src="./assets/ai-tools/claude.webp" width="70"><br><br><b>Claude Code</b>
 </td>
 <td width="18"></td>
 <td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
@@ -235,53 +235,35 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(255,161,22,0.22);">
-
 <a href="https://leetcode.com/u/anshul_ai/">
-<img src="https://leetcard.jacoblin.cool/anshul_ai?theme=dark&font=JetBrains%20Mono&ext=heatmap&radius=16&animation=false" width="100%" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/anshul_ai?theme=dark&font=JetBrains%20Mono&ext=heatmap&radius=16&animation=false" width="660" alt="LeetCode Stats">
 </a>
 
 <br><br>
 
-<img src="./assets/platforms/Leetcode.png" width="26"> <b>LEETCODE</b>
+<table>
+<tr>
 
+<td align="center" width="220">
+<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/platforms/Leetcode.png" width="28" alt="LeetCode"></a>
 <br>
-
-<sub>anshul_ai</sub>
-
-<br><br>
-
-<a href="https://leetcode.com/u/anshul_ai/"><b>→ VIEW PROFILE</b></a>
-
+<a href="https://leetcode.com/u/anshul_ai/"><b>anshul_ai</b></a>
 </td>
 
-<td width="50%" valign="top" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px; border: 1px solid rgba(46,200,102,0.25);">
+<td width="40"></td>
 
-<img src="./assets/platforms/hacker.svg" height="76" alt="HackerRank">
-
-<br><br>
-
-<b>HACKERRANK</b>
-
+<td align="center" width="220">
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/hackerrank.svg" width="160" alt="HackerRank"></a>
 <br>
-
-<sub>anshul_dhiman_ml</sub>
-
-<br><br>
-
-<sub>PROBLEM SOLVING · ALGORITHMS · DATA STRUCTURES</sub>
-
-<br><br>
-
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>→ VIEW PROFILE</b></a>
-
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>anshul_dhiman_ml</b></a>
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<sub>PROBLEM SOLVING · ALGORITHMS · DATA STRUCTURES</sub>
 
 </div>
 
