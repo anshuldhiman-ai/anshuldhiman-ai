@@ -6,21 +6,39 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Systems;Building+practical+AI+solutions;Learning+%7C+Building+%7C+Solving" />
 
-<br><br>
+<br>
 
 <table>
 <tr>
-<td align="center" style="border-radius: 999px; background: rgba(17,24,39,0.92); padding: 12px 30px; border: 1px solid rgba(96,165,250,0.15);">
 
-<a href="https://github.com/anshuldhiman-ai"><img src="./assets/social/github.svg" width="30" alt="GitHub"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="30" alt="LinkedIn"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/social/Leetcode.png" width="30" alt="LeetCode"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/social/hacker.svg" height="30" alt="HackerRank"></a>
-
+<td align="center" width="190">
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32" alt="LinkedIn"></a>
+<br>
+<sub><b>LINKEDIN</b></sub>
+<br>
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><b>anshul-dhiman-ai</b></a>
 </td>
+
+<td width="30"></td>
+
+<td align="center" width="190">
+<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/platforms/Leetcode.png" width="30" alt="LeetCode"></a>
+<br>
+<sub><b>LEETCODE</b></sub>
+<br>
+<a href="https://leetcode.com/u/anshul_ai/"><b>anshul_ai</b></a>
+</td>
+
+<td width="30"></td>
+
+<td align="center" width="190">
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/HackerRank_Icon-1000px.png" width="32" alt="HackerRank"></a>
+<br>
+<sub><b>HACKERRANK</b></sub>
+<br>
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>anshul_dhiman_ml</b></a>
+</td>
+
 </tr>
 </table>
 
@@ -108,7 +126,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48"><br><sub>React</sub></td>
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55"><br><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
 <td width="14"></td>
 <td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td width="14"></td>
@@ -128,24 +146,24 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <table>
 <tr>
-<td align="center" width="50" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/claude.webp" width="70"><br><br><b>Claude Code</b>
+<td align="center" width="130">
+<img src="./assets/ai-tools/claude.webp" width="50"><br><br><b>Claude Code</b>
 </td>
-<td width="18"></td>
-<td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/antigravity.webp" width="42"><br><br><b>Antigravity</b>
+<td width="24"></td>
+<td align="center" width="130">
+<img src="./assets/ai-tools/antigravity.webp" width="46"><br><br><b>Antigravity</b>
 </td>
-<td width="18"></td>
-<td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/chatgpt-logo.webp" width="42"><br><br><b>Codex</b>
+<td width="24"></td>
+<td align="center" width="130">
+<img src="./assets/ai-tools/chatgpt-logo.webp" width="46"><br><br><b>Codex</b>
 </td>
-<td width="18"></td>
-<td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/devin.svg" width="42"><br><br><b>Devin</b>
+<td width="24"></td>
+<td align="center" width="130">
+<img src="./assets/ai-tools/devin.svg" width="46"><br><br><b>Devin</b>
 </td>
-<td width="18"></td>
-<td align="center" width="150" style="border-radius: 14px; background: rgba(17,24,39,0.9); padding: 18px 12px; border: 1px solid rgba(96,165,250,0.15);">
-<img src="./assets/ai-tools/cursor.svg" width="42"><br><br><b>Cursor</b>
+<td width="24"></td>
+<td align="center" width="130">
+<img src="./assets/ai-tools/cursor.svg" width="46"><br><br><b>Cursor</b>
 </td>
 </tr>
 </table>
@@ -253,7 +271,7 @@ Multi-currency converter with live rates and history tracking.
 <td width="40"></td>
 
 <td align="center" width="220">
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/hackerrank.svg" width="160" alt="HackerRank"></a>
+<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/HackerRank_Icon-1000px.png" width="32" alt="HackerRank"></a>
 <br>
 <a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>anshul_dhiman_ml</b></a>
 </td>
@@ -273,7 +291,7 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuldhiman-ai&bg_color=0B0F14&color=94A3B8&line=60A5FA&point=F8FAFC&area=true&area_color=172554&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity">
+<img src="https://ghchart.rshah.org/94A3B8/anshuldhiman-ai" width="100%" alt="Contribution Activity Chart">
 
 </div>
 
