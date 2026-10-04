@@ -1,12 +1,3 @@
-<!-- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ANSHUL%20DHIMAN&fontSize=50&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20ENGINEER&descSize=17&descColor=94A3B8&descAlignY=61&color=0:0B0F14,50:111827,100:172554&fontFamily=Montserrat" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Systems;Building+practical+AI+solutions;Learning+%7C+Building+%7C+Solving" />
-
-<br> -->
 <div align="center">
 
 # `ANSHUL DHIMAN`
@@ -129,7 +120,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48"><br><sub>NumPy</sub></td>
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48"><br><sub>Pandas</sub></td>
+<td align="center"><img src="./assets/ai-tools/pandas.ico" width="48"><br><sub>Pandas</sub></td>
 <td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48"><br><sub>Scikit-learn</sub></td>
 <td width="14"></td>
@@ -140,25 +131,73 @@ I build practical AI solutions while continuously developing my **DSA and proble
 </table>
 
 ### DEVELOPMENT & DATABASES
+
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48"><br><sub>MongoDB</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+       width="48" height="48" alt="MongoDB">
+  <br>
+  <sub>MongoDB</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48"><br><sub>FastAPI</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+       width="48" height="48" alt="FastAPI">
+  <br>
+  <sub>FastAPI</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48"><br><sub>React</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+       width="48" height="48" alt="React">
+  <br>
+  <sub>React</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+       width="48" height="48" alt="Git">
+  <br>
+  <sub>Git</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="./assets/social/github.svg"
+       width="48" height="48" alt="GitHub">
+  <br>
+  <sub>GitHub</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+       width="48" height="48" alt="VS Code">
+  <br>
+  <sub>VS Code</sub>
+</td>
+
 <td width="14"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48"><br><sub>Jupyter</sub></td>
+
+<td align="center" valign="middle" width="70" height="70">
+  <img src="./assets/ai-tools/juypter.png"
+       width="65" height="45" alt="Jupyter">
+  <br>
+  <sub>Jupyter</sub>
+</td>
+
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -170,8 +209,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <tr>
 
 <td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/claude.webp" width="52" height="52" alt="Claude Code">
-  <br><br>
+  <img src="./assets/ai-tools/claude.webp" width="900" height="85" alt="Claude Code">
   <b>Claude Code</b>
 </td>
 
@@ -216,62 +254,69 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 ## `04` — FEATURED WORK
 
-<div align="center">
-
 <table>
 <tr>
-<td width="48%" valign="top" style="border-radius: 14px; background: linear-gradient(135deg, #172554 0%, #111827 100%); padding: 24px; box-shadow: 0 8px 32px rgba(96,165,250,0.14); border: 1px solid rgba(148,163,184,0.12);">
 
-### BATUA
+<td width="50%" valign="top">
+
+### `01` · BATUA
 
 **Personal Finance Manager for INR**
 
-Local-first expense tracking with NLP, analytics, and budgeting.
+Local-first expense tracking with NLP, analytics,
+and budgeting.
 
 <br>
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32"></td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="26">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="26">
 
-<br>
+<br><br>
 
-<a href="https://github.com/anshuldhiman-ai/Batua"><b>→ VIEW PROJECT</b></a>
+`Python` · `FastAPI` · `React` · `MongoDB`
+
+
+
+<a href="https://github.com/anshuldhiman-ai/Batua">
+<b>VIEW REPOSITORY →</b>
+</a>
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top" style="border-radius: 14px; background: linear-gradient(135deg, #172554 0%, #111827 100%); padding: 24px; box-shadow: 0 8px 32px rgba(96,165,250,0.14); border: 1px solid rgba(148,163,184,0.12);">
 
-### CURRENCY COUNTER
+<td width="50%" valign="top">
+
+### `02` · CURRENCY COUNTER
 
 **Real-time Currency Exchange Tool**
 
-Multi-currency converter with live rates and history tracking.
+Multi-currency converter with live rates and
+history tracking.
 
 <br>
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32"></td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="26">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="26">
 
-<br>
+<br><br>
 
-<a href="https://github.com/anshuldhiman-ai/Currency-Counter"><b>→ VIEW PROJECT</b></a>
+`JavaScript` · `HTML` · `CSS`
+
+<a href="https://github.com/anshuldhiman-ai/Currency-Counter">
+<b>VIEW REPOSITORY →</b>
+</a>
 
 </td>
+
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -295,6 +340,7 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
+<!-- LeetCode Stats -->
 <a href="https://leetcode.com/u/anshul_ai/">
   <img
     src="https://leetcode-stats-six.vercel.app/anshul_ai?theme=dark"
@@ -302,50 +348,61 @@ Multi-currency converter with live rates and history tracking.
     alt="LeetCode Stats"
   />
 </a>
-<br><br>
+
+<!-- LeetCode Submission Heatmap -->
+<a href="https://leetcode.com/u/anshul_ai/">
+  <img
+    src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500"
+    width="1500"
+    alt="LeetCode Submission Heatmap"
+  />
+</a>
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" valign="middle" width="240" height="110">
+
   <a href="https://leetcode.com/u/anshul_ai/">
     <img
       src="./assets/platforms/Leetcode.png"
-      width="28"
+      width="58"
       alt="LeetCode"
     >
   </a>
-  <br>
+
+
   <a href="https://leetcode.com/u/anshul_ai/">
     <b>anshul_ai</b>
   </a>
+
 </td>
 
-<td width="40"></td>
+<td width="50"></td>
 
-<td align="center" width="220">
+<td align="center" valign="middle" width="240" height="110">
+
   <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
     <img
-      src="./assets/platforms/HackerRank_Icon-1000px.png"
-      width="32"
+      src="./assets/platforms/HackerRank.png"
+      width="58"
       alt="HackerRank"
     >
   </a>
-  <br>
+
   <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
     <b>anshuldhiman_ai</b>
   </a>
+
 </td>
 
 </tr>
 </table>
 
-<br>
 
-<sub>PROBLEM SOLVING · ALGORITHMS · DATA STRUCTURES</sub>
+
 
 </div>
----
 
 ## `07` — CONTRIBUTION ACTIVITY
 
@@ -365,8 +422,5 @@ Multi-currency converter with live rates and history tracking.
 
 <img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14" alt="Profile views">
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:172554,50:111827,100:0B0F14" />
 
 </div>
