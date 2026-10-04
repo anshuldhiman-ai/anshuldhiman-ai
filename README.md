@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/●_AVAILABLE_FOR-INTERNSHIPS-111827?style=flat-square&labelColor=0B0F14&color=1D4ED8">
 
 <br><br>
-</div>
-<table>
+
+<table align="center">
 <tr>
 <td align="center" width="190">
 <a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
@@ -57,6 +57,7 @@
 </tr>
 </table>
 
+</div>
 
 ---
 
@@ -280,8 +281,6 @@ and budgeting.
 
 `Python` · `FastAPI` · `React` · `MongoDB`
 
-
-
 <a href="https://github.com/anshuldhiman-ai/Batua">
 <b>VIEW REPOSITORY →</b>
 </a>
@@ -324,13 +323,13 @@ history tracking.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=94A3B8&ring_color=60A5FA&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=94A3B8&ring_color=60A5FA&hide=stars,issues" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=94A3B8&langs_count=8" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=94A3B8&langs_count=8" width="500" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&locale=en" alt="GitHub Streak" />
 
 </div>
 
@@ -358,7 +357,7 @@ history tracking.
   />
 </a>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" valign="middle" width="240" height="110">
@@ -371,7 +370,6 @@ history tracking.
     >
   </a>
 
-
   <a href="https://leetcode.com/u/anshul_ai/">
     <b>anshul_ai</b>
   </a>
@@ -382,15 +380,15 @@ history tracking.
 
 <td align="center" valign="middle" width="240" height="110">
 
-  <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
+  <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
     <img
-      src="./assets/platforms/HackerRank.png"
+      src="./assets/platforms/hackerrank.png"
       width="58"
       alt="HackerRank"
     >
   </a>
 
-  <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
+  <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
     <b>anshuldhiman_ai</b>
   </a>
 
@@ -398,9 +396,6 @@ history tracking.
 
 </tr>
 </table>
-
-
-
 
 </div>
 
@@ -421,6 +416,5 @@ history tracking.
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14" alt="Profile views">
-
 
 </div>
