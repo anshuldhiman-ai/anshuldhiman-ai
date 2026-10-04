@@ -12,41 +12,43 @@
 
 <br><br>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center">
 <tr>
-<td align="center" style="padding: 0 20px;">
+<td align="center" width="170" height="60">
 <a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
-<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-<img src="./assets/social/linkedin.svg" width="64" alt="LinkedIn">
-</div>
-</a>
-<br>
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/" style="text-decoration:none;">
-<b style="font-size: 16px;">anshul-dhiman-ai</b>
+<img src="./assets/social/linkedin.svg" height="48" alt="LinkedIn">
 </a>
 </td>
 
-<td align="center" style="padding: 0 20px;">
+<td align="center" width="170" height="60">
 <a href="https://leetcode.com/u/anshul_ai/">
-<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-<img src="./assets/platforms/Leetcode.png" width="64" alt="LeetCode">
-</div>
-</a>
-<br>
-<a href="https://leetcode.com/u/anshul_ai/" style="text-decoration:none;">
-<b style="font-size: 16px;">anshul_ai</b>
+<img src="./assets/platforms/Leetcode.png" height="48" alt="LeetCode">
 </a>
 </td>
 
-<td align="center" style="padding: 0 20px;">
+<td align="center" width="170" height="60">
 <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
-<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-<img src="./assets/platforms/hackerrank.png" width="64" alt="HackerRank">
-</div>
+<img src="./assets/platforms/hackerrank.png" height="48" alt="HackerRank">
 </a>
-<br>
-<a href="https://www.hackerrank.com/profile/anshuldhiman_ml" style="text-decoration:none;">
-<b style="font-size: 16px;">anshuldhiman_ai</b>
+</td>
+
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
+<b>anshul-dhiman-ai</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/anshul_ai/">
+<b>anshul_ai</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
+<b>anshuldhiman_ai</b>
 </a>
 </td>
 
@@ -188,7 +190,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <td align="center" valign="middle" width="70" height="70">
   <img src="./assets/ai-tools/juypter.png"
-       width="65" height="45" alt="Jupyter">
+       width="67" height="45" alt="Jupyter">
   <br>
   <sub>Jupyter</sub>
 </td>
@@ -206,7 +208,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <tr>
 
 <td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/claude.webp" width="900" height="85" alt="Claude Code">
+  <img src="./assets/ai-tools/claude.webp" height="52" alt="Claude Code">
   <b>Claude Code</b>
 </td>
 
@@ -275,10 +277,6 @@ Local-first expense tracking with NLP, analytics, and budgeting.
 
 <br>
 
-<a href="https://github.com/anshuldhiman-ai/Batua">
-<b>VIEW REPOSITORY →</b>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -300,6 +298,21 @@ Multi-currency converter with live rates and history tracking.
 `JavaScript` · `HTML` · `CSS`
 
 <br>
+
+</td>
+
+</tr>
+<tr>
+
+<td>
+
+<a href="https://github.com/anshuldhiman-ai/Batua">
+<b>VIEW REPOSITORY →</b>
+</a>
+
+</td>
+
+<td>
 
 <a href="https://github.com/anshuldhiman-ai/Currency-Counter">
 <b>VIEW REPOSITORY →</b>
@@ -334,13 +347,8 @@ Multi-currency converter with live rates and history tracking.
 <div align="center">
 
 <a href="https://github.com/anshuldhiman-ai">
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
 </a>
-
-<br>
-
-<sub>Auto-generated daily by [@yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)</sub>
-
 </div>
 
 ---
