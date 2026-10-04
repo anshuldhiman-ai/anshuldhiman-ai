@@ -12,45 +12,41 @@
 
 <br><br>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="190">
+<td align="center" style="padding: 0 20px;">
 <a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
-<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
 <img src="./assets/social/linkedin.svg" width="64" alt="LinkedIn">
 </div>
 </a>
 <br>
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
-<b>anshul-dhiman-ai</b>
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/" style="text-decoration:none;">
+<b style="font-size: 16px;">anshul-dhiman-ai</b>
 </a>
 </td>
 
-<td width="30"></td>
-
-<td align="center" width="190">
+<td align="center" style="padding: 0 20px;">
 <a href="https://leetcode.com/u/anshul_ai/">
-<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
 <img src="./assets/platforms/Leetcode.png" width="64" alt="LeetCode">
 </div>
 </a>
 <br>
-<a href="https://leetcode.com/u/anshul_ai/">
-<b>anshul_ai</b>
+<a href="https://leetcode.com/u/anshul_ai/" style="text-decoration:none;">
+<b style="font-size: 16px;">anshul_ai</b>
 </a>
 </td>
 
-<td width="30"></td>
-
-<td align="center" width="190">
+<td align="center" style="padding: 0 20px;">
 <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
-<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<div style="height:80px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
 <img src="./assets/platforms/hackerrank.png" width="64" alt="HackerRank">
 </div>
 </a>
 <br>
-<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
-<b>anshuldhiman_ai</b>
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ml" style="text-decoration:none;">
+<b style="font-size: 16px;">anshuldhiman_ai</b>
 </a>
 </td>
 
@@ -255,7 +251,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 ## `04` — FEATURED WORK
 
-<table>
+<table cellspacing="30">
 <tr>
 
 <td width="50%" valign="top">
@@ -264,22 +260,20 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 **Personal Finance Manager for INR**
 
-Local-first expense tracking with NLP, analytics,
-and budgeting.
+Local-first expense tracking with NLP, analytics, and budgeting.
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="26">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="26">
-
-<br><br>
+<div style="margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" style="margin: 0 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" style="margin: 0 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" style="margin: 0 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" style="margin: 0 8px;">
+</div>
 
 `Python` · `FastAPI` · `React` · `MongoDB`
+
+<br>
 
 <a href="https://github.com/anshuldhiman-ai/Batua">
 <b>VIEW REPOSITORY →</b>
@@ -293,20 +287,19 @@ and budgeting.
 
 **Real-time Currency Exchange Tool**
 
-Multi-currency converter with live rates and
-history tracking.
+Multi-currency converter with live rates and history tracking.
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="26">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="26">
-
-<br><br>
+<div style="margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" style="margin: 0 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" style="margin: 0 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" style="margin: 0 8px;">
+</div>
 
 `JavaScript` · `HTML` · `CSS`
+
+<br>
 
 <a href="https://github.com/anshuldhiman-ai/Currency-Counter">
 <b>VIEW REPOSITORY →</b>
@@ -323,87 +316,30 @@ history tracking.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=94A3B8&ring_color=60A5FA&hide=stars,issues" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=94A3B8&langs_count=8" width="500" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&locale=en" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub Streak">
 
 </div>
+
 
 ---
 
-## `06` — CODING PROFILES
+## `06` — 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
-<!-- LeetCode Stats -->
-<a href="https://leetcode.com/u/anshul_ai/">
-  <img
-    src="https://leetcode-stats-six.vercel.app/anshul_ai?theme=dark"
-    width="500"
-    alt="LeetCode Stats"
-  />
+<a href="https://github.com/anshuldhiman-ai">
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph">
 </a>
 
-<!-- LeetCode Submission Heatmap -->
-<a href="https://leetcode.com/u/anshul_ai/">
-  <img
-    src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500"
-    width="1500"
-    alt="LeetCode Submission Heatmap"
-  />
-</a>
+<br>
 
-<table align="center">
-<tr>
-
-<td align="center" valign="middle" width="240" height="110">
-
-  <a href="https://leetcode.com/u/anshul_ai/">
-    <img
-      src="./assets/platforms/Leetcode.png"
-      width="58"
-      alt="LeetCode"
-    >
-  </a>
-
-  <a href="https://leetcode.com/u/anshul_ai/">
-    <b>anshul_ai</b>
-  </a>
-
-</td>
-
-<td width="50"></td>
-
-<td align="center" valign="middle" width="240" height="110">
-
-  <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
-    <img
-      src="./assets/platforms/hackerrank.png"
-      width="58"
-      alt="HackerRank"
-    >
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
-    <b>anshuldhiman_ai</b>
-  </a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-## `07` — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/94A3B8/anshuldhiman-ai" width="100%" alt="Contribution Activity Chart">
+<sub>Auto-generated daily by [@yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)</sub>
 
 </div>
 
