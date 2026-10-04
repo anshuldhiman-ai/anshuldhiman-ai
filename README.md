@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ANSHUL%20DHIMAN&fontSize=50&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20ENGINEER&descSize=17&descColor=94A3B8&descAlignY=61&color=0:0B0F14,50:111827,100:172554&fontFamily=Montserrat" />
 
@@ -6,43 +6,65 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Systems;Building+practical+AI+solutions;Learning+%7C+Building+%7C+Solving" />
 
+<br> -->
+<div align="center">
+
+# `ANSHUL DHIMAN`
+
+**Artificial Intelligenece & Machine Learning**
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`
+
 <br>
 
+<img src="https://img.shields.io/badge/●_AVAILABLE_FOR-INTERNSHIPS-111827?style=flat-square&labelColor=0B0F14&color=1D4ED8">
+
+<br><br>
+</div>
 <table>
 <tr>
-
 <td align="center" width="190">
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><img src="./assets/social/linkedin.svg" width="32" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
+<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<img src="./assets/social/linkedin.svg" width="64" alt="LinkedIn">
+</div>
+</a>
 <br>
-<sub><b>LINKEDIN</b></sub>
-<br>
-<a href="https://www.linkedin.com/in/anshul-dhiman-ai/"><b>anshul-dhiman-ai</b></a>
+<a href="https://www.linkedin.com/in/anshul-dhiman-ai/">
+<b>anshul-dhiman-ai</b>
+</a>
 </td>
 
 <td width="30"></td>
 
 <td align="center" width="190">
-<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/platforms/Leetcode.png" width="30" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/anshul_ai/">
+<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<img src="./assets/platforms/Leetcode.png" width="64" alt="LeetCode">
+</div>
+</a>
 <br>
-<sub><b>LEETCODE</b></sub>
-<br>
-<a href="https://leetcode.com/u/anshul_ai/"><b>anshul_ai</b></a>
+<a href="https://leetcode.com/u/anshul_ai/">
+<b>anshul_ai</b>
+</a>
 </td>
 
 <td width="30"></td>
 
 <td align="center" width="190">
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/HackerRank_Icon-1000px.png" width="32" alt="HackerRank"></a>
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
+<div style="height:65px; display:flex; align-items:center; justify-content:center;">
+<img src="./assets/platforms/hackerrank.png" width="64" alt="HackerRank">
+</div>
+</a>
 <br>
-<sub><b>HACKERRANK</b></sub>
-<br>
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>anshul_dhiman_ml</b></a>
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
+<b>anshuldhiman_ai</b>
+</a>
 </td>
 
 </tr>
 </table>
-
-</div>
 
 
 ---
@@ -146,25 +168,45 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <table>
 <tr>
-<td align="center" width="130">
-<img src="./assets/ai-tools/claude.webp" width="50"><br><br><b>Claude Code</b>
+
+<td align="center" width="140" height="120">
+  <img src="./assets/ai-tools/claude.webp" width="52" height="52" alt="Claude Code">
+  <br><br>
+  <b>Claude Code</b>
 </td>
-<td width="24"></td>
-<td align="center" width="130">
-<img src="./assets/ai-tools/antigravity.webp" width="46"><br><br><b>Antigravity</b>
+
+<td width="20"></td>
+
+<td align="center" width="140" height="120">
+  <img src="./assets/ai-tools/antigravity.webp" width="52" height="52" alt="Antigravity">
+  <br><br>
+  <b>Antigravity</b>
 </td>
-<td width="24"></td>
-<td align="center" width="130">
-<img src="./assets/ai-tools/chatgpt-logo.webp" width="46"><br><br><b>Codex</b>
+
+<td width="20"></td>
+
+<td align="center" width="140" height="120">
+  <img src="./assets/ai-tools/chatgpt-logo.webp" width="52" height="52" alt="Codex">
+  <br><br>
+  <b>Codex</b>
 </td>
-<td width="24"></td>
-<td align="center" width="130">
-<img src="./assets/ai-tools/devin.svg" width="46"><br><br><b>Devin</b>
+
+<td width="20"></td>
+
+<td align="center" width="140" height="120">
+  <img src="./assets/ai-tools/devin.svg" width="52" height="52" alt="Devin">
+  <br><br>
+  <b>Devin</b>
 </td>
-<td width="24"></td>
-<td align="center" width="130">
-<img src="./assets/ai-tools/cursor.svg" width="46"><br><br><b>Cursor</b>
+
+<td width="20"></td>
+
+<td align="center" width="140" height="120">
+  <img src="./assets/ai-tools/cursor.svg" width="52" height="52" alt="Cursor">
+  <br><br>
+  <b>Cursor</b>
 </td>
+
 </tr>
 </table>
 
@@ -254,26 +296,45 @@ Multi-currency converter with live rates and history tracking.
 <div align="center">
 
 <a href="https://leetcode.com/u/anshul_ai/">
-<img src="https://leetcard.jacoblin.cool/anshul_ai?theme=dark&font=JetBrains%20Mono&ext=heatmap&radius=16&animation=false" width="660" alt="LeetCode Stats">
+  <img
+    src="https://leetcode-stats-six.vercel.app/anshul_ai?theme=dark"
+    width="500"
+    alt="LeetCode Stats"
+  />
 </a>
-
 <br><br>
 
 <table>
 <tr>
 
 <td align="center" width="220">
-<a href="https://leetcode.com/u/anshul_ai/"><img src="./assets/platforms/Leetcode.png" width="28" alt="LeetCode"></a>
-<br>
-<a href="https://leetcode.com/u/anshul_ai/"><b>anshul_ai</b></a>
+  <a href="https://leetcode.com/u/anshul_ai/">
+    <img
+      src="./assets/platforms/Leetcode.png"
+      width="28"
+      alt="LeetCode"
+    >
+  </a>
+  <br>
+  <a href="https://leetcode.com/u/anshul_ai/">
+    <b>anshul_ai</b>
+  </a>
 </td>
 
 <td width="40"></td>
 
 <td align="center" width="220">
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><img src="./assets/platforms/HackerRank_Icon-1000px.png" width="32" alt="HackerRank"></a>
-<br>
-<a href="https://www.hackerrank.com/profile/anshul_dhiman_ml"><b>anshul_dhiman_ml</b></a>
+  <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
+    <img
+      src="./assets/platforms/HackerRank_Icon-1000px.png"
+      width="32"
+      alt="HackerRank"
+    >
+  </a>
+  <br>
+  <a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
+    <b>anshuldhiman_ai</b>
+  </a>
 </td>
 
 </tr>
@@ -284,7 +345,6 @@ Multi-currency converter with live rates and history tracking.
 <sub>PROBLEM SOLVING · ALGORITHMS · DATA STRUCTURES</sub>
 
 </div>
-
 ---
 
 ## `07` — CONTRIBUTION ACTIVITY
