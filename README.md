@@ -171,10 +171,10 @@ Local-first expense tracking with NLP, analytics, and budgeting.
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" alt="React">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" alt="React">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB">
 </div>
 
@@ -194,9 +194,9 @@ Multi-currency converter with live rates and history tracking.
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML">
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px; margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" alt="JavaScript">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS">
 </div>
 
@@ -234,13 +234,13 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&[...] ">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%"[...]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currSt[...]
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=FFFFFF">
 
 </div>
 
@@ -263,6 +263,6 @@ Multi-currency converter with live rates and history tracking.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14">
 
 </div>
