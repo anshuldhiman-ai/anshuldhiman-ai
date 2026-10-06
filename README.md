@@ -103,13 +103,9 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"><br><sub>Python</sub></td>
-<td width="14"></td>
 <td align="center"><img src="./assets/platforms/c.svg" height="48"><br><sub>C</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48"><br><sub>C++</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"><br><sub>JavaScript</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48"><br><sub>SQL</sub></td>
 </tr>
 </table>
@@ -118,85 +114,27 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48"><br><sub>NumPy</sub></td>
-<td width="14"></td>
 <td align="center"><img src="./assets/ai-tools/pandas.ico" width="48"><br><sub>Pandas</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48"><br><sub>Scikit-learn</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48"><br><sub>TensorFlow</sub></td>
-<td width="14"></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48"><br><sub>PyTorch</sub></td>
 </tr>
 </table>
 
 ### DEVELOPMENT & DATABASES
-
 <table>
 <tr>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-       width="48" height="48" alt="MongoDB">
-  <br>
-  <sub>MongoDB</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-       width="48" height="48" alt="FastAPI">
-  <br>
-  <sub>FastAPI</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-       width="48" height="48" alt="React">
-  <br>
-  <sub>React</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-       width="48" height="48" alt="Git">
-  <br>
-  <sub>Git</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="./assets/social/github.svg"
-       width="48" height="48" alt="GitHub">
-  <br>
-  <sub>GitHub</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-       width="48" height="48" alt="VS Code">
-  <br>
-  <sub>VS Code</sub>
-</td>
-
-<td width="14"></td>
-
-<td align="center" valign="middle" width="70" height="70">
-  <img src="./assets/ai-tools/juypter.png"
-       width="67" height="45" alt="Jupyter">
-  <br>
-  <sub>Jupyter</sub>
-</td>
-
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48"><br><sub>MongoDB</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48"><br><sub>FastAPI</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48"><br><sub>React</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
+<td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
+<td align="center"><img src="./assets/ai-tools/juypter.png" width="48"><br><sub>Jupyter</sub></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -206,44 +144,11 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <table>
 <tr>
-
-<td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/claude.webp" height="52" alt="Claude Code">
-  <b>Claude Code</b>
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/antigravity.webp" width="52" height="52" alt="Antigravity">
-  <br><br>
-  <b>Antigravity</b>
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/chatgpt-logo.webp" width="52" height="52" alt="Codex">
-  <br><br>
-  <b>Codex</b>
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/devin.svg" width="52" height="52" alt="Devin">
-  <br><br>
-  <b>Devin</b>
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="140" height="120">
-  <img src="./assets/ai-tools/cursor.svg" width="52" height="52" alt="Cursor">
-  <br><br>
-  <b>Cursor</b>
-</td>
-
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/claude.webp" height="52" alt="Claude Code"><br><b>Claude Code</b></td>
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/antigravity.webp" width="52" height="52" alt="Antigravity"><br><b>Antigravity</b></td>
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/chatgpt-logo.webp" width="52" height="52" alt="Codex"><br><b>Codex</b></td>
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/devin.svg" width="52" height="52" alt="Devin"><br><b>Devin</b></td>
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/cursor.svg" width="52" height="52" alt="Cursor"><br><b>Cursor</b></td>
 </tr>
 </table>
 
@@ -266,11 +171,11 @@ Local-first expense tracking with NLP, analytics, and budgeting.
 
 <br>
 
-<div style="margin: 20px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" style="margin: 0 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" style="margin: 0 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" style="margin: 0 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" style="margin: 0 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB">
 </div>
 
 `Python` · `FastAPI` · `React` · `MongoDB`
@@ -289,10 +194,10 @@ Multi-currency converter with live rates and history tracking.
 
 <br>
 
-<div style="margin: 20px 0;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" style="margin: 0 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" style="margin: 0 8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" style="margin: 0 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS">
 </div>
 
 `JavaScript` · `HTML` · `CSS`
@@ -329,16 +234,15 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&[...] ">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%"[...]
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currSt[...]
 
 </div>
-
 
 ---
 
