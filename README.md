@@ -246,7 +246,25 @@ Multi-currency converter with live rates and history tracking.
 
 ---
 
-## `06` — 3D CONTRIBUTION GRAPH
+## `06` — LEETCODE PROGRESS
+
+<div align="center">
+
+<a href="https://leetcode.com/u/anshul_ai/">
+<img src="https://leetcode-stats-six.vercel.app/anshul_ai?theme=dark" width="340" alt="LeetCode Stats">
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/anshul_ai/">
+<img src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500" width="1000" alt="LeetCode Submission Heatmap">
+</a>
+
+</div>
+
+---
+
+## `07` — 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
