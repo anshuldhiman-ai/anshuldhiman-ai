@@ -1,0 +1,315 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img">
+  <title>Profile Views</title>
+  <defs>
+    <!-- Sclera base with subtle gradient -->
+    <radialGradient id="sclera" cx="48%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#fbfcfe" />
+      <stop offset="70%" stop-color="#f0f4f9" />
+      <stop offset="88%" stop-color="#e0e8f2" />
+      <stop offset="100%" stop-color="#c8d4e3" />
+    </radialGradient>
+
+    <!-- Sclera moisture sheen (top-left light) -->
+    <radialGradient id="scleraSheen" cx="35%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Iris base - layered for depth -->
+    <radialGradient id="irisBase" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#04091a" />
+      <stop offset="20%" stop-color="#0a1a3d" />
+      <stop offset="42%" stop-color="#1e3a8a" />
+      <stop offset="62%" stop-color="#2563eb" />
+      <stop offset="78%" stop-color="#3b82f6" />
+      <stop offset="90%" stop-color="#60a5fa" />
+      <stop offset="96%" stop-color="#93c5fd" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </radialGradient>
+
+    <!-- Iris directional light (top-left bias) -->
+    <radialGradient id="irisLight" cx="35%" cy="32%" r="55%">
+      <stop offset="0%" stop-color="#bfdbfe" stop-opacity="0.55" />
+      <stop offset="60%" stop-color="#3b82f6" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.3" />
+    </radialGradient>
+
+    <!-- Pupillary zone (dark ring around pupil) -->
+    <radialGradient id="pupilZone" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="55%" stop-color="#04091a" />
+      <stop offset="85%" stop-color="#0a1a3d" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Pupil -->
+    <radialGradient id="pupil" cx="46%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="55%" stop-color="#000000" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+
+    <!-- Cornea primary specular (window light) -->
+    <radialGradient id="corneaPrimary" cx="35%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="30%" stop-color="#f0f7ff" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#dbeafe" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Cornea secondary bounce -->
+    <radialGradient id="corneaSecondary" cx="70%" cy="72%" r="45%">
+      <stop offset="0%" stop-color="#dbeafe" stop-opacity="0.7" />
+      <stop offset="60%" stop-color="#93c5fd" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#93c5fd" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Ambient occlusion under cornea bulge (limbal) -->
+    <radialGradient id="limbalAO" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55" />
+    </radialGradient>
+
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="1.8" />
+    </filter>
+
+    <filter id="microBlur">
+      <feGaussianBlur stdDeviation="0.6" />
+    </filter>
+
+    <filter id="tinyBlur">
+      <feGaussianBlur stdDeviation="0.25" />
+    </filter>
+
+    <!-- Clip to eyeball circle -->
+    <clipPath id="ballClip">
+      <circle cx="100" cy="100" r="72" />
+    </clipPath>
+  </defs>
+
+  <!-- Eyeball drop shadow (grounded feel) -->
+  <circle cx="100" cy="106" r="72" fill="#0a0f1e" opacity="0.35" filter="url(#softBlur)" />
+
+  <!-- === EYEBALL === -->
+  <g clip-path="url(#ballClip)">
+    <!-- Sclera base -->
+    <circle cx="100" cy="100" r="72" fill="url(#sclera)" />
+
+    <!-- Sclera top sheen -->
+    <ellipse cx="80" cy="70" rx="45" ry="35" fill="url(#scleraSheen)" opacity="0.7" />
+
+    <!-- Sclera bottom ambient (cool shadow) -->
+    <ellipse cx="100" cy="165" rx="60" ry="30" fill="#a8b8cc" opacity="0.25" filter="url(#softBlur)" />
+
+    <!-- Fine vein network - layer 1 (deep, larger) -->
+    <g stroke="#a83c3c" stroke-linecap="round" fill="none" opacity="0.32">
+      <path d="M32 92 Q44 88 54 92" stroke-width="0.4" />
+      <path d="M28 100 Q40 97 52 100" stroke-width="0.45" />
+      <path d="M30 108 Q42 110 54 108" stroke-width="0.4" />
+      <path d="M36 116 Q46 118 56 116" stroke-width="0.35" />
+      <path d="M168 92 Q156 88 146 92" stroke-width="0.4" />
+      <path d="M172 100 Q160 97 148 100" stroke-width="0.45" />
+      <path d="M170 108 Q158 110 146 108" stroke-width="0.4" />
+      <path d="M164 116 Q154 118 144 116" stroke-width="0.35" />
+      <path d="M26 104 Q38 104 50 103" stroke-width="0.3" />
+      <path d="M174 104 Q162 104 150 103" stroke-width="0.3" />
+      <path d="M40 84 Q46 88 44 94" stroke-width="0.3" />
+      <path d="M160 84 Q154 88 156 94" stroke-width="0.3" />
+      <path d="M34 122 Q44 124 54 122" stroke-width="0.3" />
+      <path d="M166 122 Q156 124 146 122" stroke-width="0.3" />
+    </g>
+
+    <!-- Fine vein network - layer 2 (sharp capillaries) -->
+    <g stroke="#c94a4a" stroke-linecap="round" fill="none" opacity="0.45">
+      <path d="M44 90 Q48 94 46 98" stroke-width="0.25" />
+      <path d="M52 96 Q56 100 54 104" stroke-width="0.25" />
+      <path d="M48 106 Q52 110 50 114" stroke-width="0.25" />
+      <path d="M156 90 Q152 94 154 98" stroke-width="0.25" />
+      <path d="M148 96 Q144 100 146 104" stroke-width="0.25" />
+      <path d="M152 106 Q148 110 150 114" stroke-width="0.25" />
+      <path d="M56 88 Q60 90 58 94" stroke-width="0.2" />
+      <path d="M144 88 Q140 90 142 94" stroke-width="0.2" />
+      <path d="M40 112 Q44 116 42 120" stroke-width="0.2" />
+      <path d="M160 112 Q156 116 158 120" stroke-width="0.2" />
+    </g>
+
+    <!-- Sclera inner shadow ring (pushes iris forward) -->
+    <circle cx="100" cy="100" r="44" fill="none" stroke="#a8b8cc" stroke-width="5" opacity="0.4" filter="url(#softBlur)" />
+
+    <!-- === IRIS === -->
+    <!-- Limbal ring (dark outer halo) -->
+    <circle cx="100" cy="100" r="40" fill="#04091a" />
+    <circle cx="100" cy="100" r="39.4" fill="#0a1a3d" opacity="0.85" />
+
+    <!-- Iris base -->
+    <circle cx="100" cy="100" r="38.5" fill="url(#irisBase)" />
+
+    <!-- Iris deep radial fibers -->
+    <g stroke="#04091a" stroke-width="0.8" opacity="0.85" stroke-linecap="round">
+      <line x1="100" y1="61" x2="100" y2="76" />
+      <line x1="100" y1="124" x2="100" y2="139" />
+      <line x1="61" y1="100" x2="76" y2="100" />
+      <line x1="124" y1="100" x2="139" y2="100" />
+      <line x1="72" y1="72" x2="82" y2="82" />
+      <line x1="118" y1="118" x2="128" y2="128" />
+      <line x1="128" y1="72" x2="118" y2="82" />
+      <line x1="82" y1="118" x2="72" y2="128" />
+      <line x1="66" y1="86" x2="78" y2="91" />
+      <line x1="122" y1="109" x2="134" y2="114" />
+      <line x1="134" y1="86" x2="122" y2="91" />
+      <line x1="78" y1="109" x2="66" y2="114" />
+      <line x1="84" y1="66" x2="90" y2="78" />
+      <line x1="110" y1="122" x2="116" y2="134" />
+      <line x1="116" y1="66" x2="110" y2="78" />
+      <line x1="90" y1="122" x2="84" y2="134" />
+      <line x1="92" y1="63" x2="94" y2="77" />
+      <line x1="108" y1="63" x2="106" y2="77" />
+      <line x1="92" y1="137" x2="94" y2="123" />
+      <line x1="108" y1="137" x2="106" y2="123" />
+      <line x1="63" y1="92" x2="77" y2="94" />
+      <line x1="63" y1="108" x2="77" y2="106" />
+      <line x1="137" y1="92" x2="123" y2="94" />
+      <line x1="137" y1="108" x2="123" y2="106" />
+    </g>
+
+    <!-- Iris mid-tone fibers -->
+    <g stroke="#1e3a8a" stroke-width="0.6" opacity="0.75" stroke-linecap="round">
+      <line x1="100" y1="62" x2="100" y2="77" />
+      <line x1="100" y1="123" x2="100" y2="138" />
+      <line x1="62" y1="100" x2="77" y2="100" />
+      <line x1="123" y1="100" x2="138" y2="100" />
+      <line x1="73" y1="73" x2="83" y2="83" />
+      <line x1="117" y1="117" x2="127" y2="127" />
+      <line x1="127" y1="73" x2="117" y2="83" />
+      <line x1="83" y1="117" x2="73" y2="127" />
+      <line x1="86" y1="68" x2="92" y2="79" />
+      <line x1="114" y1="68" x2="108" y2="79" />
+      <line x1="86" y1="132" x2="92" y2="121" />
+      <line x1="114" y1="132" x2="108" y2="121" />
+      <line x1="68" y1="89" x2="79" y2="93" />
+      <line x1="132" y1="89" x2="121" y2="93" />
+      <line x1="68" y1="111" x2="79" y2="107" />
+      <line x1="132" y1="111" x2="121" y2="107" />
+    </g>
+
+    <!-- Iris bright fibers -->
+    <g stroke="#60a5fa" stroke-width="0.45" opacity="0.7" stroke-linecap="round">
+      <line x1="100" y1="64" x2="100" y2="76" />
+      <line x1="100" y1="124" x2="100" y2="136" />
+      <line x1="64" y1="100" x2="76" y2="100" />
+      <line x1="124" y1="100" x2="136" y2="100" />
+      <line x1="75" y1="75" x2="83" y2="83" />
+      <line x1="117" y1="117" x2="125" y2="125" />
+      <line x1="125" y1="75" x2="117" y2="83" />
+      <line x1="83" y1="117" x2="75" y2="125" />
+      <line x1="90" y1="66" x2="94" y2="77" />
+      <line x1="110" y1="66" x2="106" y2="77" />
+      <line x1="90" y1="134" x2="94" y2="123" />
+      <line x1="110" y1="134" x2="106" y2="123" />
+    </g>
+
+    <!-- Iris highlight fibers (top-left catch) -->
+    <g stroke="#dbeafe" stroke-width="0.4" opacity="0.8" stroke-linecap="round">
+      <line x1="86" y1="70" x2="90" y2="80" />
+      <line x1="78" y1="78" x2="85" y2="84" />
+      <line x1="70" y1="88" x2="79" y2="92" />
+      <line x1="74" y1="74" x2="82" y2="82" />
+      <line x1="68" y1="95" x2="78" y2="97" />
+    </g>
+
+    <!-- Iris directional light overlay -->
+    <circle cx="100" cy="100" r="38.5" fill="url(#irisLight)" />
+
+    <!-- Collarette ring (anatomical inner ring) -->
+    <circle cx="100" cy="100" r="24" fill="none" stroke="#04091a" stroke-width="2.8" opacity="0.6" filter="url(#microBlur)" />
+    <circle cx="100" cy="100" r="23" fill="none" stroke="#1e3a8a" stroke-width="1.4" opacity="0.7" />
+    <circle cx="100" cy="100" r="22.2" fill="none" stroke="#3b82f6" stroke-width="0.9" opacity="0.65" />
+    <circle cx="100" cy="100" r="21.4" fill="none" stroke="#93c5fd" stroke-width="0.5" opacity="0.55" />
+
+    <!-- Collarette inner glow -->
+    <circle cx="100" cy="100" r="22" fill="none" stroke="#bfdbfe" stroke-width="0.4" opacity="0.5" filter="url(#tinyBlur)" />
+
+    <!-- Pupillary zone fibers (radial into pupil) -->
+    <g stroke="#0a1a3d" stroke-width="0.45" opacity="0.7" stroke-linecap="round">
+      <line x1="100" y1="78" x2="100" y2="86" />
+      <line x1="100" y1="114" x2="100" y2="122" />
+      <line x1="78" y1="100" x2="86" y2="100" />
+      <line x1="114" y1="100" x2="122" y2="100" />
+      <line x1="84" y1="84" x2="90" y2="90" />
+      <line x1="110" y1="110" x2="116" y2="116" />
+      <line x1="116" y1="84" x2="110" y2="90" />
+      <line x1="90" y1="110" x2="84" y2="116" />
+      <line x1="92" y1="80" x2="95" y2="87" />
+      <line x1="108" y1="80" x2="105" y2="87" />
+      <line x1="92" y1="120" x2="95" y2="113" />
+      <line x1="108" y1="120" x2="105" y2="113" />
+    </g>
+
+    <!-- Pupillary zone shadow -->
+    <circle cx="100" cy="100" r="22" fill="url(#pupilZone)" opacity="0.9" />
+
+    <!-- Pupil edge glow (light bleed from iris) -->
+    <circle cx="100" cy="100" r="16" fill="none" stroke="#1e3a8a" stroke-width="1" opacity="0.75" filter="url(#tinyBlur)" />
+
+    <!-- Pupil -->
+    <circle cx="100" cy="100" r="15" fill="#000814" filter="url(#tinyBlur)" />
+    <circle cx="100" cy="100" r="14.2" fill="url(#pupil)" />
+    <circle cx="100" cy="100" r="13" fill="#000000" />
+
+    <!-- Pupil inner micro-depth -->
+    <circle cx="100" cy="100" r="10" fill="#000000" opacity="0.6" filter="url(#microBlur)" />
+
+    <!-- === CORNEA REFLECTIONS (on top of everything) === -->
+
+    <!-- Primary window light - large soft reflection -->
+    <ellipse cx="84" cy="82" rx="12" ry="9" fill="url(#corneaPrimary)" transform="rotate(-32 84 82)" />
+
+    <!-- Primary reflection core sharp edge -->
+    <ellipse cx="83" cy="80" rx="6" ry="4" fill="#ffffff" opacity="0.55" transform="rotate(-32 83 80)" filter="url(#tinyBlur)" />
+
+    <!-- Secondary bounce reflection (bottom-right) -->
+    <ellipse cx="116" cy="116" rx="7" ry="4.5" fill="url(#corneaSecondary)" transform="rotate(35 116 116)" />
+
+    <!-- Sharp specular spike (window frame) -->
+    <circle cx="106" cy="80" r="2.4" fill="#ffffff" opacity="0.98" />
+    <circle cx="106" cy="80" r="4.5" fill="#ffffff" opacity="0.35" filter="url(#microBlur)" />
+
+    <!-- Secondary sharp sparkle -->
+    <circle cx="80" cy="76" r="1.4" fill="#ffffff" opacity="0.9" />
+    <circle cx="80" cy="76" r="2.4" fill="#ffffff" opacity="0.35" filter="url(#tinyBlur)" />
+
+    <!-- Tertiary micro sparkles -->
+    <circle cx="82" cy="118" r="1.1" fill="#ffffff" opacity="0.7" />
+    <circle cx="118" cy="96" r="0.9" fill="#ffffff" opacity="0.6" />
+    <circle cx="120" cy="102" r="0.7" fill="#ffffff" opacity="0.5" />
+    <circle cx="94" cy="120" r="0.55" fill="#ffffff" opacity="0.45" />
+
+    <!-- Tiny scattered moisture sparkles -->
+    <circle cx="90" cy="74" r="0.4" fill="#ffffff" opacity="0.8" />
+    <circle cx="102" cy="76" r="0.35" fill="#ffffff" opacity="0.65" />
+    <circle cx="76" cy="94" r="0.3" fill="#ffffff" opacity="0.55" />
+    <circle cx="124" cy="90" r="0.3" fill="#ffffff" opacity="0.55" />
+    <circle cx="72" cy="100" r="0.25" fill="#ffffff" opacity="0.5" />
+    <circle cx="128" cy="108" r="0.25" fill="#ffffff" opacity="0.45" />
+
+    <!-- Limbal ambient occlusion ring (cornea bulge shadow on iris edge) -->
+    <circle cx="100" cy="100" r="39" fill="url(#limbalAO)" />
+
+    <!-- Eyeball rim shading (sphere curvature) -->
+    <circle cx="100" cy="100" r="72" fill="none" stroke="#8fa8c4" stroke-width="2" opacity="0.35" filter="url(#softBlur)" />
+
+    <!-- Eyeball top-left specular (wet sphere sheen) -->
+    <ellipse cx="60" cy="52" rx="20" ry="12" fill="#ffffff" opacity="0.45" transform="rotate(-35 60 52)" filter="url(#softBlur)" />
+
+    <!-- Eyeball bottom-right rim light (bounce) -->
+    <path d="M 140 155 Q 165 140 172 110" fill="none" stroke="#dbeafe" stroke-width="3" opacity="0.35" filter="url(#microBlur)" />
+
+    <!-- Eyeball bottom occlusion (sits on ground) -->
+    <ellipse cx="100" cy="168" rx="55" ry="8" fill="#000814" opacity="0.35" filter="url(#softBlur)" />
+  </g>
+
+  <!-- Eyeball outline (subtle definition) -->
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#4a5a70" stroke-width="0.6" opacity="0.4" />
+</svg>

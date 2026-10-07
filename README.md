@@ -1,3 +1,12 @@
+<div style="display:flex; justify-content:flex-end; align-items:center; gap:6px;">
+<a href="https://github.com/anshuldhiman-ai">
+<img src="./assets/social/eye.svg" width="30" alt="Views">
+</a>
+<a href="https://github.com/anshuldhiman-ai">
+<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=&color=1D4ED8&style=flat-square" alt="Profile views">
+</a>
+</div>
+
 <div align="center">
 
 # `ANSHUL DHIMAN`
@@ -130,7 +139,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
 <td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
-<td align="center"><img src="./assets/ai-tools/juypter.png" width="48"><br><sub>Jupyter</sub></td>
+<td align="center"><img src="./assets/ai-tools/juypter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
 </tr>
 </table>
 
@@ -144,7 +153,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 <table>
 <tr>
-<td align="center" width="140" height="120"><img src="./assets/ai-tools/claude.webp" height="52" alt="Claude Code"><br><b>Claude Code</b></td>
+<td align="center" width="140" height="120"><img src="./assets/ai-tools/claude.webp" width="72" height="72" alt="Claude Code"><br><b>Claude Code</b></td>
 <td align="center" width="140" height="120"><img src="./assets/ai-tools/antigravity.webp" width="52" height="52" alt="Antigravity"><br><b>Antigravity</b></td>
 <td align="center" width="140" height="120"><img src="./assets/ai-tools/chatgpt-logo.webp" width="52" height="52" alt="Codex"><br><b>Codex</b></td>
 <td align="center" width="140" height="120"><img src="./assets/ai-tools/devin.svg" width="52" height="52" alt="Devin"><br><b>Devin</b></td>
@@ -232,15 +241,15 @@ Multi-currency converter with live rates and history tracking.
 
 ## `05` — GITHUB SIGNAL
 
-<div align="center">
+<div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=FFFFFF">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=FFFFFF" width="45%" alt="GitHub Streak">
 
 </div>
 
@@ -278,9 +287,5 @@ Multi-currency converter with live rates and history tracking.
 <div align="center">
 
 ### BUILDING · LEARNING · SOLVING
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=PROFILE%20VIEWS&color=172554&style=flat-square&labelColor=0B0F14">
 
 </div>
