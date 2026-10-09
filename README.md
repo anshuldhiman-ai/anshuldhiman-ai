@@ -1,12 +1,3 @@
-<div style="display:flex; justify-content:flex-end; align-items:center; gap:6px;">
-<a href="https://github.com/anshuldhiman-ai">
-<img src="./assets/social/eye.svg" width="30" alt="Views">
-</a>
-<a href="https://github.com/anshuldhiman-ai">
-<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=&color=1D4ED8&style=flat-square" alt="Profile views">
-</a>
-</div>
-
 <div align="center">
 
 # `ANSHUL DHIMAN`
@@ -19,7 +10,18 @@
 
 <img src="https://img.shields.io/badge/●_AVAILABLE_FOR-INTERNSHIPS-111827?style=flat-square&labelColor=0B0F14&color=1D4ED8">
 
-<br><br>
+<br>
+
+<div style="display:flex; justify-content:center; align-items:center; gap:8px; margin-top:12px;">
+<a href="https://github.com/anshuldhiman-ai">
+<img src="./assets/social/eye.svg" width="28" alt="Views">
+</a>
+<a href="https://github.com/anshuldhiman-ai">
+<img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=&color=1D4ED8&style=flat-square" alt="Profile views">
+</a>
+</div>
+
+<br>
 
 <table align="center">
 <tr>
@@ -243,13 +245,13 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" alt="Top Languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&currStreakNum=FFFFFF" width="45%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak">
 
 </div>
 
