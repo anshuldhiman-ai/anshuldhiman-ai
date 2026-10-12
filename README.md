@@ -1,10 +1,16 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+  .viga { font-family: 'Viga', sans-serif; }
+  .viga * { font-family: 'Viga', sans-serif; }
+</style>
+
 <div align="center">
 
-# `ANSHUL DHIMAN`
+<h1 class="viga">`ANSHUL DHIMAN`</h1>
 
-**Artificial Intelligenece & Machine Learning**
+<p class="viga"><strong>Artificial Intelligenece &amp; Machine Learning</strong></p>
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`
+<p class="viga">`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`</p>
 
 <br>
 
@@ -70,22 +76,22 @@
 
 ---
 
-## `01` — ABOUT
+<h2 class="viga">`01` — ABOUT</h2>
 
 <table>
 <tr>
 <td width="68%" valign="top">
 
-### AI/ML Engineer
+<h3 class="viga">AI/ML Engineer</h3>
 
-I'm **Anshul Dhiman**, a **B.Tech CSE (AI/ML) student** exploring **machine learning, deep learning, and AI systems**.
+<p class="viga">I'm <strong>Anshul Dhiman</strong>, a <strong>B.Tech CSE (AI/ML) student</strong> exploring <strong>machine learning, deep learning, and AI systems</strong>.</p>
 
-I build practical AI solutions while continuously developing my **DSA and problem-solving skills**.
+<p class="viga">I build practical AI solutions while continuously developing my <strong>DSA and problem-solving skills</strong>.</p>
 
 <br>
 
-`B.Tech CSE — AI/ML`  
-`2nd Year · 3rd Semester`
+<p class="viga">`B.Tech CSE — AI/ML`  
+`2nd Year · 3rd Semester`</p>
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -106,11 +112,11 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 ---
 
-## `02` — TECHNOLOGY STACK
+<h2 class="viga">`02` — TECHNOLOGY STACK</h2>
 
 <div align="center">
 
-### LANGUAGES
+<h3 class="viga">LANGUAGES</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"><br><sub>Python</sub></td>
@@ -121,7 +127,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 </tr>
 </table>
 
-### AI / ML & DATA SCIENCE
+<h3 class="viga">AI / ML &amp; DATA SCIENCE</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48"><br><sub>NumPy</sub></td>
@@ -132,7 +138,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 </tr>
 </table>
 
-### DEVELOPMENT & DATABASES
+<h3 class="viga">DEVELOPMENT &amp; DATABASES</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48"><br><sub>MongoDB</sub></td>
@@ -149,7 +155,7 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 ---
 
-## `03` — AI TOOLS & PLATFORMS
+<h2 class="viga">`03` — AI TOOLS &amp; PLATFORMS</h2>
 
 <div align="center">
 
@@ -167,18 +173,18 @@ I build practical AI solutions while continuously developing my **DSA and proble
 
 ---
 
-## `04` — FEATURED WORK
+<h2 class="viga">`04` — FEATURED WORK</h2>
 
 <table cellspacing="30">
 <tr>
 
 <td width="50%" valign="top">
 
-### `01` · BATUA
+<h3 class="viga">`01` · BATUA</h3>
 
-**Personal Finance Manager for INR**
+<p class="viga"><strong>Personal Finance Manager for INR</strong></p>
 
-Local-first expense tracking with NLP, analytics, and budgeting.
+<p class="viga">Local-first expense tracking with NLP, analytics, and budgeting.</p>
 
 <br>
 
@@ -189,7 +195,7 @@ Local-first expense tracking with NLP, analytics, and budgeting.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB">
 </div>
 
-`Python` · `FastAPI` · `React` · `MongoDB`
+<p class="viga">`Python` · `FastAPI` · `React` · `MongoDB`</p>
 
 <br>
 
@@ -197,11 +203,11 @@ Local-first expense tracking with NLP, analytics, and budgeting.
 
 <td width="50%" valign="top">
 
-### `02` · CURRENCY COUNTER
+<h3 class="viga">`02` · CURRENCY COUNTER</h3>
 
-**Real-time Currency Exchange Tool**
+<p class="viga"><strong>Real-time Currency Exchange Tool</strong></p>
 
-Multi-currency converter with live rates and history tracking.
+<p class="viga">Multi-currency converter with live rates and history tracking.</p>
 
 <br>
 
@@ -211,7 +217,7 @@ Multi-currency converter with live rates and history tracking.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS">
 </div>
 
-`JavaScript` · `HTML` · `CSS`
+<p class="viga">`JavaScript` · `HTML` · `CSS`</p>
 
 <br>
 
@@ -241,7 +247,7 @@ Multi-currency converter with live rates and history tracking.
 
 ---
 
-## `05` — GITHUB SIGNAL
+<h2 class="viga">`05` — GITHUB SIGNAL</h2>
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
@@ -251,13 +257,13 @@ Multi-currency converter with live rates and history tracking.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak Stats">
 
 </div>
 
 ---
 
-## `06` — LEETCODE PROGRESS
+<h2 class="viga">`06` — LEETCODE PROGRESS</h2>
 
 <div align="center">
 
@@ -275,7 +281,7 @@ Multi-currency converter with live rates and history tracking.
 
 ---
 
-## `07` — 3D CONTRIBUTION GRAPH
+<h2 class="viga">`07` — 3D CONTRIBUTION GRAPH</h2>
 
 <div align="center">
 
@@ -288,6 +294,6 @@ Multi-currency converter with live rates and history tracking.
 
 <div align="center">
 
-### BUILDING · LEARNING · SOLVING
+<h3 class="viga">BUILDING · LEARNING · SOLVING</h3>
 
 </div>
