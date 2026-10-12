@@ -103,7 +103,7 @@
 
 <br><br>
 
-<sub><b>MACHINE LEARNING · DEEP LEARNING · AI SYSTEMS</b></sub>
+<p class="viga"><sub><b>MACHINE LEARNING · DEEP LEARNING · AI SYSTEMS</b></sub></p>
 
 </td>
 </tr>
@@ -146,7 +146,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
 <td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
-<td align="center"><img src="./assets/ai-tools/juypter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
+<td align="center"><img src="./assets/ai-tools/jupyter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
 </tr>
 </table>
 
@@ -250,13 +250,13 @@
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&hide_title=false&include_all_commits=true" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8&hide_progress=false" alt="Top Languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuldhiman-ai&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&dates=CCCCCC&theme=dark" alt="GitHub Streak Stats">
 
 </div>
 
@@ -273,7 +273,7 @@
 <br>
 
 <a href="https://leetcode.com/u/anshul_ai/">
-<img src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500" width="1000" alt="LeetCode Submission Heatmap">
+<img src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500" width="700" alt="LeetCode Submission Heatmap">
 </a>
 
 </div>
