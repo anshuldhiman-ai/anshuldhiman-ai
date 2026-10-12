@@ -1,14 +1,13 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
-  .viga { font-family: 'Viga', sans-serif; }
-  .viga * { font-family: 'Viga', sans-serif; }
+  .viga { font-family: 'Viga', sans-serif !important; }
 </style>
 
 <div align="center">
 
 <h1 class="viga">`ANSHUL DHIMAN`</h1>
 
-<p class="viga"><strong>Artificial Intelligenece &amp; Machine Learning</strong></p>
+<p class="viga"><strong>Artificial Intelligence &amp; Machine Learning</strong></p>
 
 <p class="viga">`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`</p>
 
