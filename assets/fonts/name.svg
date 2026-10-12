@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 60">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Viga&amp;display=swap');
+    .text {
+      font-family: 'Viga', sans-serif;
+      font-size: 48px;
+      fill: #F8FAFC;
+    }
+  </style>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text">ANSHUL DHIMAN</text>
+</svg>

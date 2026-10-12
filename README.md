@@ -1,15 +1,12 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
-  .viga { font-family: 'Viga', sans-serif !important; }
-</style>
-
 <div align="center">
 
-<h1 class="viga">`ANSHUL DHIMAN`</h1>
+<img src="./assets/fonts/name.svg" alt="ANSHUL DHIMAN">
 
-<p class="viga"><strong>Artificial Intelligence &amp; Machine Learning</strong></p>
+<br>
 
-<p class="viga">`Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`</p>
+<strong>Artificial Intelligence &amp; Machine Learning</strong>
+
+Machine Learning · Deep Learning · Computer Vision · LLMs
 
 <br>
 
@@ -19,7 +16,7 @@
 
 <div style="display:flex; justify-content:center; align-items:center; gap:8px; margin-top:12px;">
 <a href="https://github.com/anshuldhiman-ai">
-<img src="./assets/social/eye.svg" width="28" alt="Views">
+<img src="./assets/social/eye.svg" width="20" alt="Views">
 </a>
 <a href="https://github.com/anshuldhiman-ai">
 <img src="https://komarev.com/ghpvc/?username=anshuldhiman-ai&label=&color=1D4ED8&style=flat-square" alt="Profile views">
@@ -75,22 +72,22 @@
 
 ---
 
-<h2 class="viga">`01` — ABOUT</h2>
+<img src="./assets/fonts/heading-01-about.svg" alt="01 — ABOUT">
 
 <table>
 <tr>
 <td width="68%" valign="top">
 
-<h3 class="viga">AI/ML Engineer</h3>
+<h3>AI/ML Engineer</h3>
 
-<p class="viga">I'm <strong>Anshul Dhiman</strong>, a <strong>B.Tech CSE (AI/ML) student</strong> exploring <strong>machine learning, deep learning, and AI systems</strong>.</p>
+<p>I'm <strong>Anshul Dhiman</strong>, a <strong>B.Tech CSE (AI/ML) student</strong> exploring <strong>machine learning, deep learning, and AI systems</strong>.</p>
 
-<p class="viga">I build practical AI solutions while continuously developing my <strong>DSA and problem-solving skills</strong>.</p>
+<p>I build practical AI solutions while continuously developing my <strong>DSA and problem-solving skills</strong>.</p>
 
 <br>
 
-<p class="viga">`B.Tech CSE — AI/ML`  
-`2nd Year · 3rd Semester`</p>
+<p>B.Tech CSE — AI/ML  
+2nd Year · 3rd Semester</p>
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -103,7 +100,7 @@
 
 <br><br>
 
-<p class="viga"><sub><b>MACHINE LEARNING · DEEP LEARNING · AI SYSTEMS</b></sub></p>
+<p><sub><b>MACHINE LEARNING · DEEP LEARNING · AI SYSTEMS</b></sub></p>
 
 </td>
 </tr>
@@ -111,11 +108,11 @@
 
 ---
 
-<h2 class="viga">`02` — TECHNOLOGY STACK</h2>
+<img src="./assets/fonts/heading-02-tech.svg" alt="02 — TECHNOLOGY STACK">
 
 <div align="center">
 
-<h3 class="viga">LANGUAGES</h3>
+<h3>LANGUAGES</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"><br><sub>Python</sub></td>
@@ -126,7 +123,7 @@
 </tr>
 </table>
 
-<h3 class="viga">AI / ML &amp; DATA SCIENCE</h3>
+<h3>AI / ML &amp; DATA SCIENCE</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48"><br><sub>NumPy</sub></td>
@@ -137,7 +134,7 @@
 </tr>
 </table>
 
-<h3 class="viga">DEVELOPMENT &amp; DATABASES</h3>
+<h3>DEVELOPMENT &amp; DATABASES</h3>
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48"><br><sub>MongoDB</sub></td>
@@ -146,7 +143,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
 <td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
-<td align="center"><img src="./assets/ai-tools/jupyter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
+<td align="center"><img src="\assets\ai-tools\juypter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
 </tr>
 </table>
 
@@ -154,7 +151,7 @@
 
 ---
 
-<h2 class="viga">`03` — AI TOOLS &amp; PLATFORMS</h2>
+<img src="./assets/fonts/heading-03-ai.svg" alt="03 — AI TOOLS &amp; PLATFORMS">
 
 <div align="center">
 
@@ -172,18 +169,18 @@
 
 ---
 
-<h2 class="viga">`04` — FEATURED WORK</h2>
+<img src="./assets/fonts/heading-04-work.svg" alt="04 — FEATURED WORK">
 
 <table cellspacing="30">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 class="viga">`01` · BATUA</h3>
+<h3>01 · BATUA</h3>
 
-<p class="viga"><strong>Personal Finance Manager for INR</strong></p>
+<p><strong>Personal Finance Manager for INR</strong></p>
 
-<p class="viga">Local-first expense tracking with NLP, analytics, and budgeting.</p>
+<p>Local-first expense tracking with NLP, analytics, and budgeting.</p>
 
 <br>
 
@@ -194,7 +191,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB">
 </div>
 
-<p class="viga">`Python` · `FastAPI` · `React` · `MongoDB`</p>
+<p>Python · FastAPI · React · MongoDB</p>
 
 <br>
 
@@ -202,11 +199,11 @@
 
 <td width="50%" valign="top">
 
-<h3 class="viga">`02` · CURRENCY COUNTER</h3>
+<h3>02 · CURRENCY COUNTER</h3>
 
-<p class="viga"><strong>Real-time Currency Exchange Tool</strong></p>
+<p><strong>Real-time Currency Exchange Tool</strong></p>
 
-<p class="viga">Multi-currency converter with live rates and history tracking.</p>
+<p>Multi-currency converter with live rates and history tracking.</p>
 
 <br>
 
@@ -216,7 +213,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS">
 </div>
 
-<p class="viga">`JavaScript` · `HTML` · `CSS`</p>
+<p>JavaScript · HTML · CSS</p>
 
 <br>
 
@@ -246,11 +243,11 @@
 
 ---
 
-<h2 class="viga">`05` — GITHUB SIGNAL</h2>
+<img src="./assets/fonts/heading-05-github.svg" alt="05 — GITHUB SIGNAL">
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&hide_title=false&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&hide_title=false&include_all_commits=true&show_owner=true" alt="GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8&hide_progress=false" alt="Top Languages">
 
@@ -262,7 +259,7 @@
 
 ---
 
-<h2 class="viga">`06` — LEETCODE PROGRESS</h2>
+<img src="./assets/fonts/heading-06-leetcode.svg" alt="06 — LEETCODE PROGRESS">
 
 <div align="center">
 
@@ -280,7 +277,7 @@
 
 ---
 
-<h2 class="viga">`07` — 3D CONTRIBUTION GRAPH</h2>
+<img src="./assets/fonts/heading-07-3d.svg" alt="07 — 3D CONTRIBUTION GRAPH">
 
 <div align="center">
 
@@ -293,6 +290,6 @@
 
 <div align="center">
 
-<h3 class="viga">BUILDING · LEARNING · SOLVING</h3>
+<h3>BUILDING · LEARNING · SOLVING</h3>
 
 </div>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 50">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Viga&amp;display=swap');
+    .text {
+      font-family: 'Viga', sans-serif;
+      font-size: 32px;
+      fill: #F8FAFC;
+    }
+  </style>
+  <text x="10" y="40" class="text">02 — TECHNOLOGY STACK</text>
+</svg>
