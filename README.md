@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fonts/name.svg" alt="ANSHUL DHIMAN">
+<img src="./assets/fonts/name.svg" width="300" alt="ANSHUL DHIMAN">
 
 <br>
 
@@ -40,7 +40,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 </td>
 
 <td align="center" width="170" height="60">
-<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
 <img src="./assets/platforms/hackerrank.png" height="48" alt="HackerRank">
 </a>
 </td>
@@ -60,7 +60,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 </td>
 
 <td align="center">
-<a href="https://www.hackerrank.com/profile/anshuldhiman_ml">
+<a href="https://www.hackerrank.com/profile/anshuldhiman_ai">
 <b>anshuldhiman_ai</b>
 </a>
 </td>
@@ -72,7 +72,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-01-about.svg" alt="01 — ABOUT">
+<img src="./assets/fonts/heading-01-about.svg" width="200" alt="01 — ABOUT">
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-02-tech.svg" alt="02 — TECHNOLOGY STACK">
+<img src="./assets/fonts/heading-02-tech.svg" width="250" alt="02 — TECHNOLOGY STACK">
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br><sub>Git</sub></td>
 <td align="center"><img src="./assets/social/github.svg" width="48"><br><sub>GitHub</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br><sub>VS Code</sub></td>
-<td align="center"><img src="\assets\ai-tools\juypter.png" width="72" height="48"><br><sub>Jupyter</sub></td>
+<td align="center"><img src="./assets/ai-tools/juypter.png" width="48" height="48"><br><sub>Jupyter</sub></td>
 </tr>
 </table>
 
@@ -151,7 +151,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-03-ai.svg" alt="03 — AI TOOLS &amp; PLATFORMS">
+<img src="./assets/fonts/heading-03-ai.svg" width="225" alt="03 — AI TOOLS &amp; PLATFORMS">
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-04-work.svg" alt="04 — FEATURED WORK">
+<img src="./assets/fonts/heading-04-work.svg" width="200" alt="04 — FEATURED WORK">
 
 <table cellspacing="30">
 <tr>
@@ -243,7 +243,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-05-github.svg" alt="05 — GITHUB SIGNAL">
+<img src="./assets/fonts/heading-05-github.svg" width="160" alt="05 — GITHUB SIGNAL">
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
@@ -259,7 +259,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-06-leetcode.svg" alt="06 — LEETCODE PROGRESS">
+<img src="./assets/fonts/heading-06-leetcode.svg" width="200" alt="06 — LEETCODE PROGRESS">
 
 <div align="center">
 
@@ -270,14 +270,14 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 <br>
 
 <a href="https://leetcode.com/u/anshul_ai/">
-<img src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500" width="700" alt="LeetCode Submission Heatmap">
+<img src="https://leetcode-stats-six.vercel.app/anshul_ai/graph?theme=dark&width=500" width="500" alt="LeetCode Submission Heatmap">
 </a>
 
 </div>
 
 ---
 
-<img src="./assets/fonts/heading-07-3d.svg" alt="07 — 3D CONTRIBUTION GRAPH">
+<img src="./assets/fonts/heading-07-3d.svg" width="250" alt="07 — 3D CONTRIBUTION GRAPH">
 
 <div align="center">
 
