@@ -72,7 +72,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-01-about.svg" width="200" alt="01 — ABOUT">
+<img src="./assets/fonts/heading-01-about.svg" height="32" alt="01 — ABOUT">
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-02-tech.svg" width="250" alt="02 — TECHNOLOGY STACK">
+<img src="./assets/fonts/heading-02-tech.svg" height="32" alt="02 — TECHNOLOGY STACK">
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-03-ai.svg" width="225" alt="03 — AI TOOLS &amp; PLATFORMS">
+<img src="./assets/fonts/heading-03-ai.svg" height="32" alt="03 — AI TOOLS &amp; PLATFORMS">
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-04-work.svg" width="200" alt="04 — FEATURED WORK">
+<img src="./assets/fonts/heading-04-work.svg" height="32" alt="04 — FEATURED WORK">
 
 <table cellspacing="30">
 <tr>
@@ -243,11 +243,11 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-05-github.svg" width="160" alt="05 — GITHUB SIGNAL">
+<img src="./assets/fonts/heading-05-github.svg" height="32" alt="05 — GITHUB SIGNAL">
 
 <div align="center" style="background:#0B0F14; border-radius:14px; padding:16px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&hide_title=false&include_all_commits=true&show_owner=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldhiman-ai&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&icon_color=60A5FA&text_color=FFFFFF&ring_color=60A5FA&hide_title=false&include_all_commits=true&show_owner=true&rank_icon=github" alt="GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldhiman-ai&layout=compact&hide_border=true&bg_color=0B0F14&title_color=F8FAFC&text_color=FFFFFF&langs_count=8&hide_progress=false" alt="Top Languages">
 
@@ -259,7 +259,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-06-leetcode.svg" width="200" alt="06 — LEETCODE PROGRESS">
+<img src="./assets/fonts/heading-06-leetcode.svg" height="32" alt="06 — LEETCODE PROGRESS">
 
 <div align="center">
 
@@ -277,7 +277,7 @@ Machine Learning · Deep Learning · Computer Vision · LLMs
 
 ---
 
-<img src="./assets/fonts/heading-07-3d.svg" width="250" alt="07 — 3D CONTRIBUTION GRAPH">
+<img src="./assets/fonts/heading-07-3d.svg" height="32" alt="07 — 3D CONTRIBUTION GRAPH">
 
 <div align="center">
 
